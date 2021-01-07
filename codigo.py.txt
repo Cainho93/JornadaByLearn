@@ -1,0 +1,7 @@
+nome ='yuri'
+if nome =='caio':
+ print('esse é o Caio')
+elif nome =='lucas':
+ print('esse é o primo do Caio')
+else:
+ print('desconheço essa pessoa')
